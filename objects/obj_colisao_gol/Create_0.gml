@@ -13,3 +13,4 @@ if global.pontos_player2 = 3
 	game_restart()
 	global.pontos_player2 = 0
 }
+
